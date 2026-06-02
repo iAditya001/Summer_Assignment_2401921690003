@@ -1,5 +1,3 @@
-package Week_1.DAY_1;
-
 class RemovedS {
     public int removeDuplicates(int[] nums) {
         int c=1;

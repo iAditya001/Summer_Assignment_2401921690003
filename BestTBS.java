@@ -1,5 +1,3 @@
-package Week_1.DAY_1;
-
 public class BestTBS {
     public int maxProfit(int[] p) {
         int i=p[0];
